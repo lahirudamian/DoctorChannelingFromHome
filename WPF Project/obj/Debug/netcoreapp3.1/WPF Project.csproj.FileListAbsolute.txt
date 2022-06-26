@@ -1,0 +1,78 @@
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project_MarkupCompile.cache
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project_MarkupCompile.lref
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\WPF Project.exe
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\WPF Project.deps.json
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\WPF Project.runtimeconfig.json
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\WPF Project.runtimeconfig.dev.json
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\WPF Project.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\WPF Project.pdb
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.g.resources
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.AssemblyInfo.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.pdb
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.genruntimeconfig.cache
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\login.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\SignUp.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\SignUpDoc.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlBook.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlComment.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlCreate.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlDoctorAppointment.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlHome.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\login.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\SignUp.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\SignUpDoc.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlBook.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlComment.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlCreate.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlDoctorAppointment.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlHome.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\DoctorWindow.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\DoctorWindow.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\AdminWindow.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\AdminWindow.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlDateReservation.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlPatientSearch.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlDateReservation.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlPatientSearch.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF_Project.Migrations.InitialCreate.resources
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF_Project.Migrations.Initial.resources
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\DoctorLogin.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\DoctorLogin.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\DoctorAppointment.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\DoctorAppointment.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlAdmin.g.cs
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\UserControlAdmin.baml
+C:\Users\User\source\repos\WPF Project\WPF Project\obj\Debug\netcoreapp3.1\WPF Project.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="WPF_Project.UserControlBook"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Project"
+             mc:Ignorable="d" >
+    <Grid HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="540" Width="1010" Background="AliceBlue">
+        <TextBlock HorizontalAlignment="Left" Height="78" Margin="20,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="990" FontSize="34" Block.TextAlignment="Center" Foreground="DarkBlue" TextDecorations="{x:Null}" FontFamily="cooper" Text="Meet our world rated specialist panel...Hurry up and reserve your booking"/>
+        <Image Margin="86,132,804,277" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Image Margin="325,132,576,277" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Image Margin="552,132,347,277" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Image Margin="809,132,90,277" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Image Margin="202,341,694,76" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Image Margin="440,341,452,76" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Image Margin="684,341,203,76" Source="C:\Users\User\source\repos\WPF Project\WPF Project\Capture555.PNG" Stretch="Fill"/>
+        <Button Click="Button_Click_1" Content="Dr.Aaron Finch" HorizontalAlignment="Left" Margin="311,268,0,0" VerticalAlignment="Top" Width="137"/>
+        <Button Click="Button_Click_2" Content="Dr.David Warner" HorizontalAlignment="Left" Margin="428,469,0,0" VerticalAlignment="Top" Width="147"/>
+        <Button Click="Button_Click_3" Content="Dr.Pat Cummins" HorizontalAlignment="Left" Margin="190,469,0,0" VerticalAlignment="Top" Width="141"/>
+        <Button Click="Button_Click_4" Content="Dr.Adam Zampa" HorizontalAlignment="Left" Margin="794,268,0,0" VerticalAlignment="Top" Width="145"/>
+        <Button Click="Button_Click_5" Content="Dr.Marcus Tonis" HorizontalAlignment="Left" Margin="532,268,0,0" VerticalAlignment="Top" Width="145"/>
+        <Button Click="Button_Click_6" Content="Dr.Nathan Lyon" HorizontalAlignment="Left" Margin="673,469,0,0" VerticalAlignment="Top" Width="148"/>
+        <Button Content="Dr.Kusal" HorizontalAlignment="Left" Margin="79,268,0,0" VerticalAlignment="Top" Width="134" Click="Button_Click" RenderTransformOrigin="0.636,0.428"/>
+    </Grid>
+</UserControl>

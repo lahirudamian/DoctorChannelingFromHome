@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="WPF_Project.UserControlPatientSearch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Project"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="AliceBlue" Margin="-210,-90,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="271*"/>
+            <RowDefinition Height="269*"/>
+        </Grid.RowDefinitions>
+        <TextBox Name="EmailBox" HorizontalAlignment="Left" Margin="310,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" Text="Enter the patient email" Grid.Row="1"/>
+        <Label HorizontalAlignment="Left" Margin="306,227,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="FirstNameBox" Content="Name" HorizontalAlignment="Left" Margin="310,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="6.126,3.155" Grid.Row="1"/>
+        <Label x:Name="IDBox" Content="ID" HorizontalAlignment="Left" Margin="477,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.681,-1.085" Grid.Row="1"/>
+        <Label x:Name="LastNameBox" Content="Label" HorizontalAlignment="Left" Margin="314,116,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.445,0.814" Grid.Row="1"/>
+        <Label x:Name="PhoneNoBox" Content="Phone No" HorizontalAlignment="Left" Margin="594,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.674,0.696" Grid.Row="1"/>
+        <Label x:Name="AddressBox" HorizontalAlignment="Left" Margin="359,17,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label x:Name="ConditionBox" Content="Label" HorizontalAlignment="Left" Margin="469,116,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.267,0.33" Grid.Row="1"/>
+        <Button Click="Button_Click" Content="Find" HorizontalAlignment="Left" Margin="485,3,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.405,0.684" Grid.Row="1"/>
+        <TextBox Name="NewValues" HorizontalAlignment="Left" Margin="780,57,0,0" Text="Enter the latest condition of the patient " TextWrapping="Wrap" VerticalAlignment="Top" Width="176" Height="83" Grid.Row="1"/>
+        <Button Content="Save Cahnges" HorizontalAlignment="Left" Margin="780,166,0,71" Click="Button_Click_1" Grid.Row="1"/>
+        <TextBlock Height="115" Margin="306,133,35,0" Text="Enter patient email to receive the patient details in order to update the current condition of the patient" TextAlignment="Center" FontSize="30" TextWrapping="Wrap" VerticalAlignment="Top"/>
+    </Grid>
+</UserControl>

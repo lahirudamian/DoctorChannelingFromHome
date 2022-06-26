@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPF_Project.DoctorAppointment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Project"
+        mc:Ignorable="d"
+        Title="DoctorAppointment" Height="600" Width="1000">
+
+    <Grid  HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="540" Width="1010" Background="AliceBlue">
+        <TextBlock HorizontalAlignment="Left" Height="117" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="990" FontSize="39" Block.TextAlignment="Center" Foreground="DarkBlue" TextDecorations="{x:Null}" FontFamily="cooper" Text="Hay! Here is the Doctor that suits you most and the symptoms of your disease."></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="551,197,0,280" TextWrapping="Wrap"  Width="415" FontSize="30" Block.TextAlignment="Center" Foreground="DarkBlue" TextDecorations="{x:Null}" FontFamily="cooper"><Run Text="Available Time"/><LineBreak/><Run/><LineBreak/><Run Text="Monday 3.00-6.00pm"/><LineBreak/><Run Text="Firday 4.00-9.00pm"/><LineBreak/><Run/><LineBreak/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock Name="AvailableBox" HorizontalAlignment="Left" Margin="551,297,0,180" TextWrapping="Wrap"  Width="415" FontSize="30" Block.TextAlignment="Center" Foreground="DarkBlue" TextDecorations="{x:Null}" FontFamily="cooper"></TextBlock>
+        <Button Content="Confirm Booking" HorizontalAlignment="Left" Margin="646,410,0,0" VerticalAlignment="Top" Width="234" Height="49"/>
+        <Label Name="DocName" Content="Doctor" HorizontalAlignment="Left" Margin="53,132,0,0" VerticalAlignment="Top" Height="250" Width="373"/>
+    </Grid>
+</Window>
